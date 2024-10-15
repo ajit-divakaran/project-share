@@ -7,7 +7,7 @@ function App() {
         <div className="d-none d-md-block col-md-2 bg-secondary vh-100"></div>
         <div className="col-12 col-md-8 vh-100 d-flex justify-content-center align-items-center">
           <div>
-            <p className="text-light">Add your name to the list</p>
+            <p className="text-light">Create a new branch and add your name to the list</p>
             <ul className="list-unstyled">
               <li className="text-light">Hello My name is <span style={{color:'yellow'}}>Ajit</span></li>
             </ul>
