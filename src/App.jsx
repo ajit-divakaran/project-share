@@ -10,6 +10,7 @@ function App() {
             <p className="text-light">Create a new branch and add your name to the list</p>
             <ul className="list-unstyled">
               <li className="text-light">Hello My name is <span style={{color:'yellow'}}>Ajit</span></li>
+              <li className="text-light">Hello My name is <span style={{color:'yellow'}}>Amal</span></li>
             </ul>
           </div>
         </div>
