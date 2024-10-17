@@ -11,6 +11,7 @@ function App() {
             <ul className="list-unstyled">
               <li className="text-light">Hello My name is <span style={{color:'yellow'}}>Ajit</span></li>
               <li className="text-light">Hello My name is <span style={{color:'yellow'}}>Amal</span></li>
+              <li className="text-light">Hello My name is <span style={{color:'yellow'}}>Anzal</span></li>
             </ul>
           </div>
         </div>
